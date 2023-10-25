@@ -31,7 +31,7 @@ The display\_leaderboard function reads the existing scores from the "leaderboar
 Finally, the *game loop*, the main function where several essential steps are carried out for the game to work. This is where event detection is done to capture actions. Depending on the current game screen, the corresponding function is called. In the game, the keys pressed by the player are checked to move the character and shoot projectiles. The background is drawn and updated to create a displacement effect. Projectiles can be fired based on a time interval, guaranteeing a firing rate limit. The drones' behavior is updated and checked for collisions with the player, bullets, leaving the screen and entering the water tank. The player is also updated and drawn on the screen, as is the water tank. In addition, important information is displayed on the screen, such as the player's score and the remaining game time. There are checks to end the game if the time limit is reached.
 
 ### References
-#### Art:
+#### Art & Sound:
 Anonymous. (2012, April 11). *Several scrolling backgrounds and layerable “runners.”* OpenGameArt.org. <https://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runners> 
 
 bubaproducer. (2012, April 8). *Laser shot silenced by Bubaproducer*. Freesound. <https://freesound.org/people/bubaproducer/sounds/151022/> 
