@@ -33,7 +33,7 @@ GREY = (128, 128, 128)
 
 # Sounds
 shotSound = pygame.mixer.Sound("sounds/shot.wav")
-explosionSound = pygame.mixer.Sound("sounds/explosion.mp3")
+explosionSound = pygame.mixer.Sound("sounds/explosion.wav")
 splashSound = pygame.mixer.Sound("sounds/splash.wav")
 jumpSound = pygame.mixer.Sound("sounds/jump.wav")
 loseSound = pygame.mixer.Sound("sounds/lose.wav")
